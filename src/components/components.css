@@ -1,0 +1,65 @@
+h1 {
+  text-align: center;
+  font-family: "Segoe print";
+}
+h2 {
+  text-align: center;
+  font-family: "Segoe print";
+}
+
+.liste {
+  float: right;
+  width: 40%;
+  height: 100%;
+  border: 2px solid blue;
+  border-radius: 10px;
+  background-color: #ffebe6;
+  padding-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  font-family: "MV Boli";
+}
+.restaurant {
+  background-color: lightgreen;
+}
+.map {
+  width: 50%;
+  height: 80%;
+  position: absolute;
+}
+.info {
+  text-align: center;
+}
+.popup h1 {
+  font-size: 20px;
+}
+.popup {
+  text-align: center;
+  position: fixed;
+  width: 20%;
+  height: 60%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  background-color: rgba(27, 207, 177, 0.5);
+}
+.popup\_inner {
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  top: 25%;
+  bottom: 25%;
+  margin: auto;
+  border-radius: 20px;
+  background: white;
+  z-index: 3;
+}
+
+div.gm-style:nth-of-type(2) {
+  width: 40% !important ;
+  height: 40% !important;
+  position: absolute;
+  z-index: 1;
+}

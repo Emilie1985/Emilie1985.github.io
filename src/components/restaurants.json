@@ -1,0 +1,82 @@
+[
+   {
+      "restaurantName":"Bronco",
+      "address":"39 Rue des Petites Écuries, 75010 Paris",
+      "lat":48.8737815,
+      "long":2.3501649,
+      "ratings":[
+         {
+           "stars":4,
+            "comment":"Un excellent restaurant, j'y reviendrai ! Par contre il vaut mieux aimer la viande."
+         },
+         {
+            "stars":5,
+            "comment":"Tout simplement mon restaurant préféré !"
+         }
+      ]
+   },
+   {
+      "restaurantName":"Babalou",
+      "address":"4 Rue Lamarck, 75018 Paris",
+      "lat":48.8865035,
+      "long":2.3442197,
+      "ratings":[
+         {
+            "stars":5,
+            "comment":"Une minuscule pizzeria délicieuse cachée juste à côté du Sacré choeur !"
+         },
+         {
+            "stars":3,
+            "comment":"J'ai trouvé ça correct, sans plus"
+         }
+      ]
+   },
+   {
+      "restaurantName":"Le Vésuve",
+      "address":"102 rue d'Assas, 75006 Paris",
+      "lat":48.843228,
+      "long":2.33462,
+      "ratings":[
+         {
+            "stars":3,
+            "comment":"Nos pizzas sont arrivée froides mais l'accueil était chaleureux"
+         },
+         {
+            "stars":2,
+            "comment":"La qualité de la nourriture est discutable..."
+         }
+      ]
+   },   
+   {
+      "restaurantName":"Le St Michel",
+      "address":"77 boulevard St Michel, 75005 Paris",
+      "lat":48.845951,
+      "long":2.339984,
+      "ratings":[
+         {
+            "stars":5,
+            "comment":"Le menu était excellent et nous avons passé une super soirée!"
+         },
+         {
+            "stars":4,
+            "comment":"Le décor est très agréable et la nourriture délicieuse."
+         }
+      ]
+   },
+      {
+      "restaurantName":"Baulieu",
+      "address":"3 rue Omer Talon, 75011 Paris",
+      "lat":48.861323,
+      "long":2.3832,
+      "ratings":[
+         {
+            "stars":3,
+            "comment":"Nourriture bonne mais accueil un peu froid."
+         },
+         {
+            "stars":5,
+            "comment":"J'ai adoré ce restaurant!"
+         }
+      ]
+   }
+] 
